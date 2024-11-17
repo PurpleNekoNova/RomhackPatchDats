@@ -1,4 +1,4 @@
-## Nintendo GameCube/Wii "Romhack Patches" datfiles</br>
+## Nova's "Romhack Patches" Datfiles</br>
 No pre-patched ISOs are included here.</br>
 This is only for the files required to create the romhack, you must supply your own totally-legal dump.</br>
 ### What is allowed:</br>
