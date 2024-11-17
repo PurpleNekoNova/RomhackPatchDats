@@ -42,6 +42,7 @@ Sometimes romhacks are only distributed pre-patched, in this case, I create a cu
 5. Secondary Compression > None</br>
 6. Src Window Size > Auto</br>
 7. Add Checksum to patch (Checked)</br>
+
 This should result in a reproducible deterministic xdelta (xdeltaUI doesn't appear to be deterministic).</br>
 ### What determines region?</br>
 Region is determined by the originating ISO region, however some regions are simplified (Europe, Australia -> Europe).</br>
