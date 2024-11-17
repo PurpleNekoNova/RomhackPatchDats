@@ -1,6 +1,10 @@
 ## Nova's "Romhack Patches" Datfiles</br>
 No pre-patched ISOs are included here.</br>
 This is only for the files required to create the romhack, you must supply your own totally-legal dump.</br>
+### Current Dats:</br>
+* Nintendo - GameCube (Romhack Patches)
+* Nintendo - Wii (Romhack Patches)
+* Nintendo - Wii U (Romhack Patches) [In Progress]
 ### What is allowed:</br>
 1. Romhack Patches (Patches that modify the core game in some form, major or minor)</br>
 2. Translation Patches (Patches that translate the game or romhack from one language to another)</br>
